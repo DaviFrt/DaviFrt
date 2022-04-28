@@ -22,8 +22,6 @@
 <p align="left"> <a href="https://discord.com/users/DaviAmmo#8148" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/DaviFrt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davi-amom-99b39b204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br>
 
-![Snake animation](https://github.com/rafaballerini/DaviFrt/blob/output/github-contribution-grid-snake.svg)
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviFrt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFrt&layout=compact&langs_count=7&theme=dark"/>
