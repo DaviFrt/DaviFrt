@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Davi Amom</h1>
+<h1>Hi, I'm Davi Amom</h1>
 
 - 🔥 Web Development student
 - 🌱 I'm currently learning Html, Css and Javascript
