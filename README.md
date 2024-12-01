@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Davi Amom</h1>
 
 <div align="center">
-    <h3>• Sobre mim</h3>
     
     - 🤔 Full Stack Developer
     - 🎓 Software Engineer in training
